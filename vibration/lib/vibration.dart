@@ -1,6 +1,4 @@
 import 'dart:async';
-
-import 'src/vibration_presets.dart'; // ✅ Ruta relativa local
 import 'package:vibration_platform_interface/vibration_platform_interface.dart';
 
 /// Platform-independent vibration methods.
